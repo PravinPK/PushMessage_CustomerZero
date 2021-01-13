@@ -83,7 +83,7 @@ CHECKOUT OPTIONS:
     :commit: f78bf6bdc68f79bdd0a0ac538fca07d934d85ce0
     :git: "git@github.com:adobe/aepsdk-core-ios.git"
   AEPEdge:
-    :commit: 93446d2255b19c4c2c7f6052667ed343bfb21908
+    :commit: ed2c45645ecc6a33b9c39c40a1cc63558454724c
     :git: "git@github.com:adobe/aepsdk-edge-ios.git"
   AEPIdentity:
     :commit: f78bf6bdc68f79bdd0a0ac538fca07d934d85ce0
@@ -116,6 +116,6 @@ SPEC CHECKSUMS:
   AEPServices: b95e3f8ce2ba8c7e0cac8b3d06301db0dc1471b1
   AEPSignal: 2e8ed059ad17cf03fca1857c515fa26069585feb
 
-PODFILE CHECKSUM: 163d0b0c5e8f6b8327b47972915510b0df1f24db
+PODFILE CHECKSUM: 17d18f26b99cf1e73f8163c6239737647439af83
 
-COCOAPODS: 1.10.0
+COCOAPODS: 1.10.1
