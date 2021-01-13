@@ -1,0 +1,6 @@
+framework module Pods_Customer0 {
+  umbrella header "Pods-Customer0-umbrella.h"
+
+  export *
+  module * { export * }
+}
